@@ -11,7 +11,7 @@ This project demonstrates the deployment of a full-stack microservices architect
 
 ## Technology Stack
 - **Backend**: ASP.NET Core Web API, Entity Framework Core
-- **Database**: MS SQL Server, AdventureWorks database
+- **Database**: MS SQL Server, project's database
 - **Containerization**: Docker, Docker Compose
 - **CI/CD**: Jenkins, GitHub
 - **API Documentation**: Swagger
