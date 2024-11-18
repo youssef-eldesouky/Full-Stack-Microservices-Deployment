@@ -35,7 +35,7 @@ This project demonstrates the deployment of a full-stack microservices architect
 ---
 
 ### Step 3: Microservices Architecture with Docker
-1. **Set Up Docker**:
+1. **Set Up Docker**
 
 2. **Create Dockerfiles**
 
