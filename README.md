@@ -42,3 +42,19 @@ This project demonstrates the deployment of a full-stack microservices architect
 3. **Configure Docker Compose**
 
 4. **Build and Run Containers**
+
+---
+
+### Step 4: Set Up CI/CD Pipeline with Jenkins
+1. **Install Jenkins**
+
+2. **Integrate GitHub with Jenkins**
+
+3. **Jenkins Pipeline Setup**
+
+---
+
+### Step 5: Documentation
+1. **Document Aarchitecture and Setup**
+
+2. **API Documentation:**
